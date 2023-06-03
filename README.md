@@ -3,6 +3,10 @@ Services - AWS Lambda, DynamoDB, Cloudwatch, APIGateway
 
 ---
 
+References
+- https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/index.html
+- https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/index.html
+
 - **Make sure to create and configure AWS account in your local environment**
 - **Make sure to replace the `<account_id>` in lambda-policy.json and role-policy.json files**
 * Install Dependencies - `go get -v all`
